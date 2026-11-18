@@ -1,3 +1,11 @@
+<p align="center">
+  <a href="readme.md"><b>English</b></a>
+  &nbsp;·&nbsp;
+  <a href="README.fr.md">Français</a>
+  &nbsp;·&nbsp;
+  <a href="README.es.md">Español</a>
+</p>
+
 # 📊 Analyse Prédictive des Ventes - Projet Data Science
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
